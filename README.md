@@ -93,6 +93,7 @@ Create a line chart that graphs the relationship between a goal's amount and its
 
 
 Bonus Statistical Analysis
+
 If one were to describe a successful crowdfunding campaign, most people would use the number of campaign backers as a metric of success. One of the most efficient ways that data scientists characterize a quantitative metric, such as the number of campaign backers, is by creating a summary statistics table.
 For those looking for an additional challenge, you will evaluate the number of backers of successful and unsuccessful campaigns by creating your own summary statistics table.
 
